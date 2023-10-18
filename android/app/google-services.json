@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953942726308",
+    "project_id": "bs-burcmania",
+    "storage_bucket": "bs-burcmania.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953942726308:android:3d877fdba63741e9dcf831",
+        "android_client_info": {
+          "package_name": "com.bracketssoft.burcmania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953942726308-kcsq3902qupl9broet01dm60ebkrf89d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0jQei0SJKQRZa68uJm_aX2XBC1v2GWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953942726308-kcsq3902qupl9broet01dm60ebkrf89d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
